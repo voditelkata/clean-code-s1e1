@@ -22,14 +22,13 @@ body {
 
 @media (max-width:768px) {
 
-  .about-app,
-  .wrapper-one {
+  .about-app {
     text-align: center;
   }
 
 }
 
-.wrapper {
+.main {
   display: block;
   width: 500px;
   margin: 0 auto 0;
