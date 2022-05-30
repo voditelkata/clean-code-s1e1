@@ -22,7 +22,8 @@ body {
 
 @media (max-width:768px) {
 
-  .about-app {
+  .about-app,
+  .wrapper-one {
     text-align: center;
   }
 
